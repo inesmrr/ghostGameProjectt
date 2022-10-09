@@ -1,0 +1,5 @@
+The waypoints script is used to tell the enemies were to go. So you can create a few empty scene objects and then set them up as waypoints. You can see how I have it set up in the example scene i included in the folder. all you have to to is just set at least two waypoints and attach the waypoints script to the parent.
+
+Then you can just place the movetowaypoiny script onto the enemy character, give it a reference for the waypoints and they will automatically move on their own.
+
+Check the scene I made if you're not sure how it works.
