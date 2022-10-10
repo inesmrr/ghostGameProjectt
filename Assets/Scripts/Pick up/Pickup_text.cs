@@ -13,6 +13,7 @@ public class Pickup_text : MonoBehaviour
 
     public void OnMouseOver()
     {
+        print("mouse over");
         pickupText.SetActive(true);
     }
 
